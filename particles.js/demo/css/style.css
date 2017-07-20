@@ -171,6 +171,7 @@ input {
   font-family: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 12px;
   outline: none;
+  font-style: bold;
 
 }
 input:placeholder-shown {
